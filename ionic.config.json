@@ -1,0 +1,7 @@
+{
+  "name": "testePush",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
